@@ -1,4 +1,4 @@
-utf8cp library wrapper for Staticlibs
+UTF8-CPP library wrapper for Staticlibs
 =====================================
 
 [![travis](https://travis-ci.org/staticlibs/external_utf8cpp.svg?branch=master)](https://travis-ci.org/staticlibs/external_utf8cpp)
@@ -6,7 +6,7 @@ utf8cp library wrapper for Staticlibs
 
 This project is a part of [Staticlibs](http://staticlibs.net/).
 
-This project contains a CMake project wrapper for [utf8cpp](https://sourceforge.net/projects/utfcpp/) that
+This project contains a CMake project wrapper for [UTF8-CPP](https://sourceforge.net/projects/utfcpp/) that
 can be used with sources imported from [Fedora EPEL lookaside](https://github.com/staticlibs/lookaside_utf8cpp).
 
 Link to the [documentation](http://utfcpp.sourceforge.net/).
